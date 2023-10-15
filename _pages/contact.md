@@ -5,7 +5,8 @@ layout: single
 toc: true
 ---
 
-<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/moqoqpve" method="post">
+<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/moqoqpve" method="post"
+enctype="multipart/form-data">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Full Name/Nombre Completo</label>
     <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
@@ -22,7 +23,7 @@ toc: true
     <label for="transaction-id">Screenshots/Capturas (max 25MB)</label>
     <input type="file" name="attachment" accept="image/png, image/jpeg">
   </fieldset>
-  <input type="submit" value="Submit">
+  <input type="file" value="Submit">
 </form>
 
 
