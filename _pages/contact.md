@@ -5,25 +5,8 @@ layout: single
 toc: true
 ---
 
-<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/moqoqpve" method="post" enctype="multipart/form-data">
-  <fieldset id="fs-frm-inputs">
-    <label for="full-name">Full Name/Nombre Completo</label>
-    <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
-    <label for="email-address">Email Address</label>
-    <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
-    <label for="transaction-id">Marketplace Transaction Number(Required)</label>
-    <label for="transaction-id">Numero de Transacción de la compra (Obligatorio)</label>
-    <input type="number" name="tid" id="tid" placeholder="XXXXXXXXXX" required="">
-    <label for="Gamertag">XBOX/MS Gamertag (Required)</label>
-    <input type="text" name="gamertag" id="gamertag" placeholder="" required="">
-    <label for="message">Message</label>
-    <textarea rows="5" name="message" id="message" placeholder="" required=""></textarea>
-    <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
-    <label for="transaction-id">Screenshots/Capturas (max 25MB)</label>
-    <input type="file" name="attachment" accept="image/png, image/jpeg">
-  </fieldset>
-  <input type="submit" value="Submit">
-</form>
+<div id="ff-compose"></div>
+<script async defer src="https://formfacade.com/include/116601118970716190822/form/1FAIpQLSfhpnArJRjiwTKwsnVd39fh0zz9PfVkuYAmv0EAvRTg0sQ2Wg/wordpress.js?div=ff-compose"></script>
 
 
 <script data-name="BMC-Widget" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="vpilot" data-description="Apoyame comprandome un Café!" data-message="Gracias por descargar. Ahora puedes invitarme a un Café!" data-color="#79D6B5" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
