@@ -2,7 +2,6 @@
 permalink: /contact/
 title: "Contact"
 layout: single
-toc: true
 ---
 
 <div id="ff-compose"></div>
