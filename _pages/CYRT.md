@@ -44,14 +44,6 @@ gallery1:
     image_path: /assets/images/CYRT/Block_10.jpg
     alt: "placeholder image 7"
     title: "Rankin Inlet Airport, Nunavut, Canada"
-  - url: /assets/images/CYRT/Block_11.jpg
-    image_path: /assets/images/CYRT/Block_11.jpg
-    alt: "placeholder image 7"
-    title: "Rankin Inlet Airport, Nunavut, Canada"
-  - url: /assets/images/CYRT/Block_12.jpg
-    image_path: /assets/images/CYRT/Block_12.jpg
-    alt: "placeholder image 7"
-    title: "Rankin Inlet Airport, Nunavut, Canada"
     
 ---
 ### **Rankin Inlet Airport, Nunavut, Canada**
