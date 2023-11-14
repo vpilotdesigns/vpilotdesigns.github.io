@@ -87,7 +87,7 @@ toc: true
 ## [CYRT - Rannkin Inlet Airport, Rankin Inlet Airport - Nunavut, Canada](https://vpilotdesigns.github.io/CYRT/)
 <p><a href="https://vpilotdesigns.github.io/CYRT/"><strong>Galeria/Gallery</strong></a><br>
   <br></p>
-{% include figure image_path="/assets/images/CYRT/BLOCK_05.jpg" alt="lejr" caption="Rankin Inlet Airport, Rankin Inlet Airport - Nunavut, Canada for MSFS" %} 
+{% include figure image_path="/assets/images/CYRT/Block_05.jpg" alt="lejr" caption="Rankin Inlet Airport, Rankin Inlet Airport - Nunavut, Canada for MSFS" %} 
 
 # Spain
 	
