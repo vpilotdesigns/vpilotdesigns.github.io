@@ -58,14 +58,7 @@ toc: true
 ## [MPBO - Bocas del Toro Airport - Bocas del Toro, Panama](https://vpilotdesigns.github.io/MPBO/)
 <p><a href="https://vpilotdesigns.github.io/MPBO/"><strong>Galeria/Gallery</strong></a><br>
   <br></p>
-{% include figure image_path="/assets/images/MPBO/BLOCK_03.jpg" alt="mpbo" caption="Bocas del Toro Intl Airport - Bocas del Toro, Panama for MSFS" %}
-
-# Spain
-	
-## [LEJR - Jerez Airport, Jerez de la Frontera (Cadiz) - Andalucia, Spain](https://vpilotdesigns.github.io/LEJR/)
-<p><a href="https://vpilotdesigns.github.io/LEJR/"><strong>Galeria/Gallery</strong></a><br>
-  <br></p>
-{% include figure image_path="/assets/images/LEJR/BLOCK_03.jpg" alt="lejr" caption="Jerez Airport, Jerez de la Frontera (Cadiz) - Andalucia, Spain for MSFS" %}  
+{% include figure image_path="/assets/images/MPBO/BLOCK_03.jpg" alt="mpbo" caption="Bocas del Toro Intl Airport - Bocas del Toro, Panama for MSFS" %} 
 
 # United States
 	
@@ -88,6 +81,20 @@ toc: true
 <p><a href="https://vpilotdesigns.github.io/KSUU/"><strong>Galeria/Gallery</strong></a><br>
   <br></p>
 {% include figure image_path="/assets/images/KSUU/Block_02.jpg" alt="mpto" caption="Westchester County Airport - White Plains, NY for MSFS" %}
+
+# Canada
+	
+## [CYRT - Rannkin Inlet Airport, Rankin Inlet Airport - Nunavut, Canada](https://vpilotdesigns.github.io/CYRT/)
+<p><a href="https://vpilotdesigns.github.io/CYRT/"><strong>Galeria/Gallery</strong></a><br>
+  <br></p>
+{% include figure image_path="/assets/images/CYRT/BLOCK_05.jpg" alt="lejr" caption="Rankin Inlet Airport, Rankin Inlet Airport - Nunavut, Canada for MSFS" %} 
+
+# Spain
+	
+## [LEJR - Jerez Airport, Jerez de la Frontera (Cadiz) - Andalucia, Spain](https://vpilotdesigns.github.io/LEJR/)
+<p><a href="https://vpilotdesigns.github.io/LEJR/"><strong>Galeria/Gallery</strong></a><br>
+  <br></p>
+{% include figure image_path="/assets/images/LEJR/BLOCK_03.jpg" alt="lejr" caption="Jerez Airport, Jerez de la Frontera (Cadiz) - Andalucia, Spain for MSFS" %} 
 
 # Como conseguirlos/How to find
 <img src="/assets/images/marketplace2.png" alt="Trulli" width="100%" height="333">
