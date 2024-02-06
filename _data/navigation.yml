@@ -8,8 +8,8 @@ main:
   # url: /liveries/
   - title: "Contact/Support"
     url: /contact/
-  #- title: "Utilities/Links"
-  #  url: /utilities/
+  - title: "EULA"
+    url: /EULA/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
