@@ -1,11 +1,15 @@
 <!-- start custom footer snippets -->
 <!-- _includes/footer/custom.html -->
-<!-- _includes/footer/custom.html -->
 <style>
   .partner-logos-container {
-    overflow: hidden;
+    overflow-x: hidden;
     white-space: nowrap;
     text-align: center;
+  }
+
+  .partner-logos-inner {
+    display: inline-block;
+    transition: transform 0.5s ease; /* Add smooth scrolling transition */
   }
 
   .partner-logo {
@@ -18,24 +22,27 @@
   <h2>Partners</h2>
 </div>
 <div class="partner-logos-container">
-  <a href="https://vpilotdesigns.github.io" class="partner-logo">
-    <img src="{{ site.baseurl }}/assets/images/logos/V Pilot-01 Hi Res White Letters.png" alt="V Pilot Logo" style="max-width: 100px; max-height: 50px;">
-  </a>
-  <a href="https://newsky.app/airline/LTS/info" class="partner-logo">
-    <img src="{{ site.baseurl }}/assets/images/logos/Coffee Air.png" alt="Coffee Air Logo" style="max-width: 100px; max-height: 50px;">
-  </a>
-  <a href="https://www.flightsimulator.com/" class="partner-logo">
-    <img src="{{ site.baseurl }}/assets/images/logos/MSFS.png" alt="MSFS Logo" style="max-width: 100px; max-height: 50px;">
-  </a>
-  <a href="https://www.facebook.com/TeikofStudio/" class="partner-logo">
-    <img src="{{ site.baseurl }}/assets/images/logos/TKO.png" alt="TKO Logo" style="max-width: 100px; max-height: 50px;">
-  </a>
-  <a href="https://globalskysim.com/" class="partner-logo">
-    <img src="{{ site.baseurl }}/assets/images/logos/GS.png" alt="GS Logo" style="max-width: 100px; max-height: 50px;">
-  </a>
-  <!-- Add more logos as needed with corresponding hyperlinks and styles -->
+  <div class="partner-logos-inner">
+    <a href="https://vpilotdesigns.github.io" class="partner-logo">
+      <img src="{{ site.baseurl }}/assets/images/logos/V Pilot-01 Hi Res White Letters.png" alt="V Pilot Logo" style="max-width: 100px; max-height: 50px;">
+    </a>
+    <a href="https://newsky.app/airline/LTS/info" class="partner-logo">
+      <img src="{{ site.baseurl }}/assets/images/logos/Coffee Air.png" alt="Coffee Air Logo" style="max-width: 100px; max-height: 50px;">
+    </a>
+    <a href="https://www.flightsimulator.com/" class="partner-logo">
+      <img src="{{ site.baseurl }}/assets/images/logos/MSFS.png" alt="MSFS Logo" style="max-width: 100px; max-height: 50px;">
+    </a>
+    <a href="https://www.facebook.com/TeikofStudio/" class="partner-logo">
+      <img src="{{ site.baseurl }}/assets/images/logos/TKO.png" alt="TKO Logo" style="max-width: 100px; max-height: 50px;">
+    </a>
+    <a href="https://globalskysim.com/" class="partner-logo">
+      <img src="{{ site.baseurl }}/assets/images/logos/GS.png" alt="GS Logo" style="max-width: 100px; max-height: 50px;">
+    </a>
+    <!-- Add more logos as needed with corresponding hyperlinks and styles -->
+  </div>
 </div>
 <p style="text-align: center;">&copy; {{ site.title | escape }}. All rights reserved.</p>
+
 
 
 
