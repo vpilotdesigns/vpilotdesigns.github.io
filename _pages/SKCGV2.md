@@ -1,6 +1,6 @@
 ---
-permalink: /SKCG/
-title: "SKCGV2 - Rafael Nuñez Airport"
+permalink: /SKCGV2/
+title: "SKCG - Rafael Nuñez Airport"
 layout: single
 classes: wide
 gallery1:
