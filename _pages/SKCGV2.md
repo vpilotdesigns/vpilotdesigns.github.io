@@ -134,12 +134,20 @@ We are thrilled to announce the release of the highly anticipated **SKCG Rafael 
 
 **Features Include:**
 🌟 Highly Detailed Models: Immerse yourself in a meticulously crafted airport environment with exceptional attention to detail.
+
 🌟 Hangars and FBO: Explore the airport's infrastructure, including hangars and fixed-base operators, with stunning accuracy.
+
 🌟 Military Area: Discover the military section of the airport, faithfully recreated for an authentic experience.
+
 🌟 HD PBR Materials: Enjoy high-definition physically based rendering (PBR) materials on buildings and ground for unparalleled realism.
+
 🌟 Parking, Drop-off, and Pickup Areas: Navigate through parking facilities and designated drop-off and pickup zones with precision.
+
 🌟 Custom Lighting: Experience dynamic lighting effects that enhance the atmosphere and realism of the airport environment.
+
 🌟 Points of Interest (POI): Explore iconic landmarks such as Cerro de la Popa, Castillo de San Felipe, Torre del Reloj, and Ciudad Amurallada for an immersive adventure beyond the airport.
+
+
 
 Whether you're a seasoned virtual aviator or a newcomer to the skies, SKCG Rafael Nuñez Airport V2 offers something for everyone. So buckle up, prepare for takeoff, and embark on your next adventure over the stunning landscapes of Colombia!
 
