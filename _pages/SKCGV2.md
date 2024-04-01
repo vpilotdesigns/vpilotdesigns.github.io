@@ -4,32 +4,80 @@ title: "SKCGV2 - Rafael Nuñez Airport"
 layout: single
 classes: wide
 gallery1:
-  - url: /assets/images/SKCGV2/01.jpg
-    image_path: /assets/images/SKCGV2/01.jpg
+  - url: /assets/images/SKCGV2/Block_01.jpg
+    image_path: /assets/images/SKCGV2/Block_01.jpg
     alt: "placeholder image 2"
     title: "Rafael Nuñez Airport - Cartagena, Colombia for MSFS"
-  - url: /assets/images/SKCGV2V2/04.jpg
-    image_path: /assets/images/SKCGV2/04.jpg
+  - url: /assets/images/SKCGV2V2/Block_29.jpg
+    image_path: /assets/images/SKCGV2/Block_29.jpg
     alt: "placeholder image 5"
     title: "Rafael Nuñez Airport - Cartagena, Colombia for MSFS"
-  - url: /assets/images/SKCGV2V@/05.jpg
-    image_path: /assets/images/SKCGV2/05.jpg
+  - url: /assets/images/SKCGV2V@/Block_28.jpg
+    image_path: /assets/images/SKCGV2/Block_28.jpg
     alt: "placeholder image 6"
     title: "Rafael Nuñez Airport - Cartagena, Colombia for MSFS"
-  - url: /assets/images/SKCGV2/06.jpg
-    image_path: /assets/images/SKCGV2/06.jpg
+  - url: /assets/images/SKCGV2/Block_11.jpg
+    image_path: /assets/images/SKCGV2/Block_11.jpg
     alt: "placeholder image 7"
     title: "Rafael Nuñez Airport - Cartagena, Colombia for MSFS"
-  - url: /assets/images/SKCGV2/12.jpg
-    image_path: /assets/images/SKCGV2/12.jpg
+  - url: /assets/images/SKCGV2/Block_31.jpg
+    image_path: /assets/images/SKCGV2/Block_31.jpg
     alt: "10"
     title: "Rafael Nuñez Airport - Cartagena, Colombia for MSFS"
-  - url: /assets/images/SKCGV2/15.jpg
-    image_path: /assets/images/SKCGV2/15.jpg
+  - url: /assets/images/SKCGV2/Block_17.jpg
+    image_path: /assets/images/SKCGV2/Block_17.jpg
     alt: "10"
     title: "Rafael Nuñez Airport - Cartagena, Colombia for MSFS"
-  - url: /assets/images/SKCGV2/17.jpg
-    image_path: /assets/images/SKCGV2/17.jpg
+  - url: /assets/images/SKCGV2/Block_26.jpg
+    image_path: /assets/images/SKCGV2/Block_26.jpg
+    alt: "10"
+    title: "Rafael Nuñez Airport - Cartagena, Colombia for MSFS"
+  - url: /assets/images/SKCGV2/Block_18.jpg
+    image_path: /assets/images/SKCGV2/Block_18.jpg
+    alt: "10"
+    title: "Rafael Nuñez Airport - Cartagena, Colombia for MSFS"
+  - url: /assets/images/SKCGV2/Block_25.jpg
+    image_path: /assets/images/SKCGV2/Block_25.jpg
+    alt: "10"
+    title: "Rafael Nuñez Airport - Cartagena, Colombia for MSFS"
+  - url: /assets/images/SKCGV2/Block_03.jpg
+    image_path: /assets/images/SKCGV2/Block_03.jpg
+    alt: "10"
+    title: "Rafael Nuñez Airport - Cartagena, Colombia for MSFS"
+  - url: /assets/images/SKCGV2/Block_07.jpg
+    image_path: /assets/images/SKCGV2/Block_07.jpg
+    alt: "10"
+    title: "Rafael Nuñez Airport - Cartagena, Colombia for MSFS"
+  - url: /assets/images/SKCGV2/Block_19.jpg
+    image_path: /assets/images/SKCGV2/Block_19.jpg
+    alt: "10"
+    title: "Rafael Nuñez Airport - Cartagena, Colombia for MSFS"
+  - url: /assets/images/SKCGV2/Block_06.jpg
+    image_path: /assets/images/SKCGV2/Block_06.jpg
+    alt: "10"
+    title: "Rafael Nuñez Airport - Cartagena, Colombia for MSFS"
+  - url: /assets/images/SKCGV2/Block_27.jpg
+    image_path: /assets/images/SKCGV2/Block_27.jpg
+    alt: "10"
+    title: "Rafael Nuñez Airport - Cartagena, Colombia for MSFS"
+  - url: /assets/images/SKCGV2/Block_10.jpg
+    image_path: /assets/images/SKCGV2/Block_10.jpg
+    alt: "10"
+    title: "Rafael Nuñez Airport - Cartagena, Colombia for MSFS"
+  - url: /assets/images/SKCGV2/Block_16.jpg
+    image_path: /assets/images/SKCGV2/Block_16.jpg
+    alt: "10"
+    title: "Rafael Nuñez Airport - Cartagena, Colombia for MSFS"
+  - url: /assets/images/SKCGV2/Block_05.jpg
+    image_path: /assets/images/SKCGV2/Block_05.jpg
+    alt: "10"
+    title: "Rafael Nuñez Airport - Cartagena, Colombia for MSFS"
+  - url: /assets/images/SKCGV2/Block_08.jpg
+    image_path: /assets/images/SKCGV2/Block_08.jpg
+    alt: "10"
+    title: "Rafael Nuñez Airport - Cartagena, Colombia for MSFS"
+  - url: /assets/images/SKCGV2/Block_14.jpg
+    image_path: /assets/images/SKCGV2/Block_14.jpg
     alt: "10"
     title: "Rafael Nuñez Airport - Cartagena, Colombia for MSFS"
 
