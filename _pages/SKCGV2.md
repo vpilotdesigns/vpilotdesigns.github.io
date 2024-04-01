@@ -128,7 +128,9 @@ gallery1:
 
 ---
 #Cartagena, Colombia
+
 ###V2
+
 # 🛫✈️ Exciting News for Flight Sim Enthusiasts! 🌎🎮
 
 We are thrilled to announce the release of the highly anticipated **SKCG Rafael Nuñez Airport V2** for Microsoft Flight Simulator! 🎉✈️
