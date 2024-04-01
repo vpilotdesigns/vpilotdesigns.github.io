@@ -12,7 +12,7 @@ gallery1:
     image_path: /assets/images/SKCGV2/Block_29.jpg
     alt: "placeholder image 5"
     title: "Rafael Nuñez Airport - Cartagena, Colombia for MSFS"
-  - url: /assets/images/SKCGV2V2/Block_28.jpg
+  - url: /assets/images/SKCGV2/Block_28.jpg
     image_path: /assets/images/SKCGV2/Block_28.jpg
     alt: "placeholder image 6"
     title: "Rafael Nuñez Airport - Cartagena, Colombia for MSFS"
