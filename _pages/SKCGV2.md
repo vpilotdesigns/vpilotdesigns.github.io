@@ -128,9 +128,8 @@ gallery1:
 
 ---
 ### **Cartagena, Colombia**
+#### **V2**  
 #### **for Microsoft Flight Simulator**  
-
-###V2
 
 # 🛫✈️ Exciting News for Flight Sim Enthusiasts! 🌎🎮
 
