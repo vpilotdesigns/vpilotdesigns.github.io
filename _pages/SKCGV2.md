@@ -55,7 +55,7 @@ For owners of SKCG Rafael Nuñez Airport V1, there is an exclusive opportunity t
 
 **Happy flying!** 🛫🌍✈️
 
-{% include video id="i7TaPNcUuOQ" provider="youtube" %}
+{% include video id="BKzeJDd8p9I" provider="youtube" %}
 
 {% include gallery id="gallery1" caption="SKCG Rafael Nuñez Airport - Cartagena, Colombia for MSFS" %}
 
