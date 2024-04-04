@@ -23,10 +23,10 @@ toc: true
   <br></p>
 {% include figure image_path="/assets/images/SKRG/Block_071.jpg" alt="skrg" caption="Jose Maria Cordova Intl Airport - Rionegro, Colombia for MSFS" %}
   
-## [SKCG - Rafael Nuñez Airport - Cartagena, Colombia](https://vpilotdesigns.github.io/SKCG/)  
-<p><a href="https://vpilotdesigns.github.io/SKCG/"><strong>Galeria/Gallery</strong></a><br>
+## [SKCG - Rafael Nuñez Airport - Cartagena, Colombia](https://vpilotdesigns.github.io/SKCGV2/)  
+<p><a href="https://vpilotdesigns.github.io/SKCGV2/"><strong>Galeria/Gallery</strong></a><br>
   <br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/i7TaPNcUuOQ" title="SKCG" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen><br></iframe><br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/BKzeJDd8p9I" title="SKCG" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen><br></iframe><br>
   <br></p>
   
 ## [SKAR - El Eden Airport - Armenia, Colombia](https://vpilotdesigns.github.io/SKAR/)
