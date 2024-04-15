@@ -25,4 +25,4 @@ Thank you to all the community members for their work on these profiles.
 
 ## GSX Settings for best compatibility
 
-{% include figure image_path="/assets/images/GSX Pro Config.png" alt="MPBO" caption="Bocas del Toro, Bocas del Toro, Panama" %}
+{% include figure image_path="/assets/images/GSX_Pro_Config.png" alt="GSX" caption="GSX Profiles" %}
