@@ -8,6 +8,8 @@ main:
   # url: /liveries/
   - title: "Contact/Support"
     url: /contact/
+  - title: "GSX Profiles"
+    url: /GSX/
   - title: "EULA"
     url: /EULA/
   # - title: "Sample Collections"
