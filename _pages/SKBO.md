@@ -83,6 +83,8 @@ V Pilot Designs & Arka506
 SKBO - El Dorado Intl
 Bogota, Colombia
 
+- **Up to date Runways 14L/32R & 14R/32L as of 12/29/2022**
+
 High Detail 3D Models
 
 - Terminal
