@@ -117,6 +117,13 @@ feature_row:
 ---
 <p><b>Bienvenidos/Welcome</b></p>
 
+<ul>
+  {% for post in site.posts limit:5 %}
+    <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+
+
 <h2>V Pilot Designs en el Marketplace de MSFS</h2>
 <p>Ya se encuentran disponibles/Available Now<br></p>
   
