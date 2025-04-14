@@ -118,10 +118,15 @@ feature_row:
 <p><b>Bienvenidos/Welcome</b></p>
 
 <ul>
-  {% for post in site.posts limit:5 %}
-    <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+  {% assign sorted_posts = site.posts | sort: 'slug' %}
+  {% for post in sorted_posts limit:5 %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <small> - {{ post.date | date: "%b %-d, %Y" }}</small>
+    </li>
   {% endfor %}
 </ul>
+
 
 
 <h2>V Pilot Designs en el Marketplace de MSFS</h2>
