@@ -1,0 +1,18 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+.page {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.initial-content {
+  flex: 1;
+}
+
+.page__footer {
+  margin-top: auto;
+}
