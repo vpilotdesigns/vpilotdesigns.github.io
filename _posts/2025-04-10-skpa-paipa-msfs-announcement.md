@@ -22,7 +22,7 @@ We’re thrilled to announce that our highly detailed rendition of **SKPA Paipa 
 
 📦 Optimized performance with updated assets and next-gen enhancements
 
-🎉 **SPECIAL OFFER**: Already flying in **MSFS 2020**? No worries! The **MSFS 2020 version** is still available—now at a **discounted price**!
+🎉 **SPECIAL OFFER**: If you already own the MSFS 2020 version, you’ll receive a discount on the MSFS 2024 version through the Marketplace!
 
 👉 **Grab it now on the MSFS 2024 Marketplace:**
 
