@@ -87,10 +87,9 @@ social:
 analytics:
   provider               : "google-gtag"
   google:
-    tracking_id          : "UA-180213067-1"
-    anonymize_ip         : true
+    tracking_id          : "G-9T4YR3C7E2"
     
-google_tag_manager: GTM-N8QDKJ8    
+google_tag_manager: GT-PBZF9HGZ   
 
 
 # Site Author
