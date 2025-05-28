@@ -16,3 +16,28 @@ html, body {
 .page__footer {
   margin-top: auto;
 }
+
+/* Feature row horizontal scroll styles */
+.feature-row-scroll {
+  display: flex;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  gap: 1rem;
+  padding-bottom: 10px;
+  scroll-behavior: smooth;
+}
+
+.feature-row-scroll > * {
+  flex: 0 0 auto;
+  min-width: 250px; /* Adjust width as needed */
+}
+
+/* Optional scrollbar styling */
+.feature-row-scroll::-webkit-scrollbar {
+  height: 6px;
+}
+
+.feature-row-scroll::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 3px;
+}
