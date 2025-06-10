@@ -15,7 +15,7 @@ toc: true
 
 <p><a href="https://vpilotdesigns.github.io/SKBO2024/"><strong>Galeria/Gallery</strong></a><br>
   <br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/_ijI_XZ0eyjo" title="SKBO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen><br></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ijI_XZ0eyjo" title="SKBO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen><br></iframe>
   <br></p>
 
 # Microsoft Flight Simulator (2020)
