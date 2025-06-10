@@ -5,8 +5,7 @@ layout: single
 
 toc: true
 ---
-**V Pilot Designs en el Marketplace de MSFS**  
-*Ya se encuentran disponibles*
+**V Pilot Designs airports are available in the MSFS and MSFS 2024 Marketplace**  
 
 # Microsoft Flight Simulator 2024
 
