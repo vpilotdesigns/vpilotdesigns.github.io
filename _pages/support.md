@@ -1,7 +1,7 @@
 ---
 permalink: /support/
 title: Support
-layout: default
+layout: single
 ---
 
 **Contact/Support Form**  
