@@ -1,122 +1,37 @@
----
-permalink: /support/
-title: Support
-layout: default
----
+<form id="supportForm" action="https://support-backend-jeh0.onrender.com/api/support" method="POST" enctype="multipart/form-data">
+  <p><strong>Contact/Support Form</strong><br>
+     Please fill out the following fields with the correct information. Describe your problem in the message section.<br><br>
+     Por favor llena los datos en este formulario. Describe el problema con el que necesitas ayuda en la parte de mensaje.
+  </p>
 
-<style>
-  form {
-    max-width: 500px;
-    margin: 20px auto;
-    padding: 15px;
-    border: 1px solid #ddd;
-    border-radius: 6px;
-    font-family: Arial, sans-serif;
-  }
-  label {
-    display: block;
-    margin-bottom: 10px;
-  }
-  input[type="text"],
-  input[type="email"],
-  textarea,
-  input[type="file"] {
-    width: 100%;
-    padding: 8px;
-    margin-top: 4px;
-    box-sizing: border-box;
-  }
-  button {
-    padding: 10px 20px;
-    cursor: pointer;
-    background-color: #0078d4;
-    color: white;
-    border: none;
-    border-radius: 4px;
-    font-size: 16px;
-  }
-  button:hover {
-    background-color: #005ea1;
-  }
-  #responseMsg {
-    margin-top: 15px;
-    font-weight: bold;
-  }
-</style>
+  <label for="name">Full Name / Nombre Completo</label><br>
+  <input type="text" id="name" name="name" placeholder="Your full name / Tu nombre completo"><br><br>
 
-<h1>Support Form</h1>
+  <label for="email">Email Address* / Correo electrónico*</label><br>
+  <input type="email" id="email" name="email" placeholder="you@example.com" required><br><br>
 
-<form
-  id="supportForm"
-  action="https://support-backend-jeh0.onrender.com/api/support"
-  method="POST"
-  enctype="multipart/form-data"
->
-  <label>
-    Email Address: <span style="color: red;">*</span>
-    <input type="email" name="email" required />
-  </label>
+  <label for="gamertag">XBOX/MSFS Gamertag* / Gamertag XBOX/MSFS*</label><br>
+  <input type="text" id="gamertag" name="gamertag" placeholder="Your gamertag / Tu gamertag" required><br><br>
 
-  <label>
-    XBOX/MSFS Gamertag: <span style="color: red;">*</span>
-    <input type="text" name="gamertag" required />
-  </label>
+  <label for="transactionNumber">Transaction Number* / Número de Transacción*</label><br>
+  <input type="text" id="transactionNumber" name="transactionNumber" placeholder="Your transaction number / Número de transacción" required><br><br>
 
-  <label>
-    Transaction Number: <span style="color: red;">*</span>
-    <input type="text" name="transactionNumber" required />
-  </label>
+  <label for="message">Message / Mensaje</label><br>
+  <textarea id="message" name="message" rows="5" placeholder="Describe your issue / Describe tu problema"></textarea><br><br>
 
-  <label>
-    Message:
-    <textarea name="message" rows="5"></textarea>
-  </label>
+  <label for="attachment"><strong>Capturas/Facturas</strong></label><br>
+  <small>
+    If unable to find the transaction number, please upload a screenshot of the product page in the MSFS marketplace with the gamertag visible in the top right corner.<br>
+    If uploading multiple files, please add them all to a .zip file.<br><br>
+    Si no tienes el número de transacción, puedes subir una captura de la página del producto dentro de la tienda oficial de MSFS con el gamertag visible en la parte superior derecha.<br>
+    Para adjuntar múltiples archivos, agrégalos a un solo archivo .zip.
+  </small><br>
+  <input type="file" id="attachment" name="attachment" accept=".zip,.png,.jpg,.jpeg,.pdf"><br><br>
 
-  <label>
-    Attachment (optional):
-    <input type="file" name="attachment" />
-  </label>
+  <!-- Google reCAPTCHA widget -->
+  <div class="g-recaptcha" data-sitekey="6LdkKGUrAAAAAO1j_F5_99awBJshIrKfVqcwOivY"></div><br>
 
-  <div class="g-recaptcha" data-sitekey="6LdkKGUrAAAAAO1j_F5_99awBJshIrKfVqcwOivY"></div>
-  <script src="https://www.google.com/recaptcha/api.js" async defer></script>
-
-  
-  <button type="submit">Submit Support Request</button>
-
-  <p id="responseMsg"></p>
+  <button type="submit">Send / Enviar</button>
 </form>
 
-<script>
-  const form = document.getElementById('supportForm');
-  const msg = document.getElementById('responseMsg');
-
-  form.addEventListener('submit', async (e) => {
-    e.preventDefault();
-    msg.style.color = 'black';
-    msg.textContent = 'Sending...';
-
-    const formData = new FormData(form);
-
-    try {
-      const response = await fetch(form.action, {
-        method: 'POST',
-        body: formData,
-      });
-
-      const result = await response.json();
-
-      if (response.ok) {
-        msg.style.color = 'green';
-        msg.textContent = result.message;
-        form.reset();
-      } else {
-        msg.style.color = 'red';
-        msg.textContent = result.message || 'Something went wrong.';
-      }
-    } catch (error) {
-      msg.style.color = 'red';
-      msg.textContent = 'Submission failed.';
-      console.error('Error:', error);
-    }
-  });
-</script>
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
