@@ -57,3 +57,32 @@ Por favor llena los datos en este formulario. Describe el problema con el que ne
 </form>
 
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
+<script>
+  document.getElementById('supportForm').addEventListener('submit', async function (e) {
+    e.preventDefault();
+
+    const form = e.target;
+    const formData = new FormData(form);
+
+    try {
+      const response = await fetch(form.action, {
+        method: form.method,
+        body: formData
+      });
+
+      const result = await response.json();
+
+      if (result.success) {
+        alert('✅ Support request sent successfully!');
+        form.reset();
+      } else {
+        alert('❌ Error: ' + result.message);
+      }
+    } catch (err) {
+      alert('❌ Submission failed. Please try again later.');
+      console.error(err);
+    }
+  });
+</script>
+
