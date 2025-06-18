@@ -53,18 +53,23 @@ layout: default
   enctype="multipart/form-data"
 >
   <label>
-    Name:
-    <input type="text" name="name" required />
-  </label>
-
-  <label>
-    Email:
+    Email Address: <span style="color: red;">*</span>
     <input type="email" name="email" required />
   </label>
 
   <label>
+    XBOX/MSFS Gamertag: <span style="color: red;">*</span>
+    <input type="text" name="gamertag" required />
+  </label>
+
+  <label>
+    Transaction Number: <span style="color: red;">*</span>
+    <input type="text" name="transactionNumber" required />
+  </label>
+
+  <label>
     Message:
-    <textarea name="message" rows="5" required></textarea>
+    <textarea name="message" rows="5"></textarea>
   </label>
 
   <label>
@@ -83,6 +88,7 @@ layout: default
 
   form.addEventListener('submit', async (e) => {
     e.preventDefault();
+    msg.style.color = 'black';
     msg.textContent = 'Sending...';
 
     const formData = new FormData(form);
