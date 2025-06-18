@@ -32,17 +32,24 @@ Por favor llena los datos en este formulario. Describe el problema con el que ne
   <textarea id="message" name="message" rows="5" placeholder="Describe your issue / Describe tu problema"></textarea><br><br>
 
   <label for="attachment"><strong>Capturas/Facturas</strong></label><br>
+  <div>
   <small>
-  If unable to find the transaction number, please upload a screenshot of the product page in the MSFS marketplace with the gamertag visible in the top right corner. If uploading multiple files, please add them all to a .zip file.
+      If unable to find the transaction number, please upload a screenshot of the product page in the MSFS marketplace with the gamertag visible in the top right corner. If uploading multiple files, please add them all to a .zip file.
+    </small>
+  </div>
   
   <hr style="margin: 1em 0; border: none; border-top: 1px solid #ccc;">
-
-  Si no tienes el número de transacción, puedes subir una captura de la página del producto dentro de la tienda oficial de MSFS con el gamertag visible en la parte superior derecha. Para adjuntar múltiples archivos, agrégalos a un solo archivo .zip.
-  </small>
   
-  <br><br>
+  <div>
+    <small>
+      Si no tienes el número de transacción, puedes subir una captura de la página del producto dentro de la tienda oficial de MSFS con el gamertag visible en la parte superior derecha. Para adjuntar múltiples archivos, agrégalos a un solo archivo .zip.
+    </small>
+  </div>
+  
+  <br>
   
   <input type="file" id="attachment" name="attachment" accept=".zip,.png,.jpg,.jpeg,.pdf" multiple>
+
 
   <div class="g-recaptcha" data-sitekey="6LdkKGUrAAAAAO1j_F5_99awBJshIrKfVqcwOivY"></div><br>
 
