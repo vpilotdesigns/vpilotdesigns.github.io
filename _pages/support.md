@@ -39,7 +39,9 @@ Por favor llena los datos en este formulario. Describe el problema con el que ne
 
   Si no tienes el número de transacción, puedes subir una captura de la página del producto dentro de la tienda oficial de MSFS con el gamertag visible en la parte superior derecha. Para adjuntar múltiples archivos, agrégalos a un solo archivo .zip.
   </small>
+  
   <br><br>
+  
   <input type="file" id="attachment" name="attachment" accept=".zip,.png,.jpg,.jpeg,.pdf" multiple>
 
   <div class="g-recaptcha" data-sitekey="6LdkKGUrAAAAAO1j_F5_99awBJshIrKfVqcwOivY"></div><br>
