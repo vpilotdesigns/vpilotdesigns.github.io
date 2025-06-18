@@ -11,36 +11,38 @@ Please fill out the following fields with the correct information. Describe your
 Por favor llena los datos en este formulario. Describe el problema con el que necesitas ayuda en la parte de mensaje.
 
 <form id="supportForm" action="https://support-backend-jeh0.onrender.com/api/support" method="POST" enctype="multipart/form-data">
-  
-**Full Name / Nombre Completo**  
-<input type="text" id="name" name="name" placeholder="Your full name / Tu nombre completo"><br><br>
+  <p><strong>Contact/Support Form</strong><br>
+     Please fill out the following fields with the correct information. Describe your problem in the message section.<br><br>
+     Por favor llena los datos en este formulario. Describe el problema con el que necesitas ayuda en la parte de mensaje.
+  </p>
 
-**Email Address* / Correo electrónico***  
-<input type="email" id="email" name="email" placeholder="you@example.com" required><br><br>
+  <label for="name"><strong>Full Name / Nombre Completo</strong></label><br>
+  <input type="text" id="name" name="name" placeholder="Your full name / Tu nombre completo"><br><br>
 
-**XBOX/MSFS Gamertag* / Gamertag XBOX/MSFS***  
-<input type="text" id="gamertag" name="gamertag" placeholder="Your gamertag / Tu gamertag" required><br><br>
+  <label for="email"><strong>Email Address* / Correo electrónico*</strong></label><br>
+  <input type="email" id="email" name="email" placeholder="you@example.com" required><br><br>
 
-**Transaction Number* / Número de Transacción***  
-<input type="text" id="transactionNumber" name="transactionNumber" placeholder="Your transaction number / Número de transacción" required><br><br>
+  <label for="gamertag"><strong>XBOX/MSFS Gamertag* / Gamertag XBOX/MSFS*</strong></label><br>
+  <input type="text" id="gamertag" name="gamertag" placeholder="Your gamertag / Tu gamertag" required><br><br>
 
-**Message / Mensaje**  
-<textarea id="message" name="message" rows="5" placeholder="Describe your issue / Describe tu problema"></textarea><br><br>
+  <label for="transactionNumber"><strong>Transaction Number* / Número de Transacción*</strong></label><br>
+  <input type="text" id="transactionNumber" name="transactionNumber" placeholder="Your transaction number / Número de transacción" required><br><br>
 
-**Capturas/Facturas**  
-<small>
-If unable to find the transaction number, please upload a screenshot of the product page in the MSFS marketplace with the gamertag visible in the top right corner.  
-If uploading multiple files, please add them all to a .zip file.  
+  <label for="message"><strong>Message / Mensaje</strong></label><br>
+  <textarea id="message" name="message" rows="5" placeholder="Describe your issue / Describe tu problema"></textarea><br><br>
 
-Si no tienes el número de transacción, puedes subir una captura de la página del producto dentro de la tienda oficial de MSFS con el gamertag visible en la parte superior derecha.  
-Para adjuntar múltiples archivos, agrégalos a un solo archivo .zip.
-</small><br>
-<input type="file" id="attachment" name="attachment" accept=".zip,.png,.jpg,.jpeg,.pdf"><br><br>
+  <label for="attachment"><strong>Capturas/Facturas</strong></label><br>
+  <small>
+    If unable to find the transaction number, please upload a screenshot of the product page in the MSFS marketplace with the gamertag visible in the top right corner.<br>
+    If uploading multiple files, please add them all to a .zip file.<br><br>
+    Si no tienes el número de transacción, puedes subir una captura de la página del producto dentro de la tienda oficial de MSFS con el gamertag visible en la parte superior derecha.<br>
+    Para adjuntar múltiples archivos, agrégalos a un solo archivo .zip.
+  </small><br>
+  <input type="file" id="attachment" name="attachment" accept=".zip,.png,.jpg,.jpeg,.pdf"><br><br>
 
-<!-- Google reCAPTCHA widget -->
-<div class="g-recaptcha" data-sitekey="6LdkKGUrAAAAAO1j_F5_99awBJshIrKfVqcwOivY"></div><br>
+  <div class="g-recaptcha" data-sitekey="6LdkKGUrAAAAAO1j_F5_99awBJshIrKfVqcwOivY"></div><br>
 
-<button type="submit">Send / Enviar</button>
+  <button type="submit">Send / Enviar</button>
 </form>
 
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
