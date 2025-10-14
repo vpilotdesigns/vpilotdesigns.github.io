@@ -3,19 +3,19 @@ permalink: /SKAR/
 title: "SKAR El Edén International Airport for MSFS 2024" 
 layout: single
 classes: wide
-description: "Discover SKAR El Edén International Airport for Microsoft Flight Simulator 2024 — a handcrafted recreation of Armenia, Colombia’s gateway to the Coffee Region, featuring detailed modeling, realistic textures, and optimized performance."
+description: "Discover SKAR El Edén International Airport for Microsoft Flight Simulator 2024 — a handcrafted recreation of Armenia, Colombia’s gateway to the Coffee Region, featuring detailed modeling, realistic textures, and optimized performance. Free upgrade for MSFS 2020 owners."
 image: /assets/images/2024/SKAR/01.jpg
 
 # Open Graph / Social Media Metadata
 og_title: "SKAR El Edén International Airport for MSFS 2024"
-og_description: "Fly into the heart of Colombia’s Coffee Region with SKAR El Edén Airport — handcrafted for Microsoft Flight Simulator 2024 with detailed modeling, realistic lighting, and optimized performance."
+og_description: "Fly into the heart of Colombia’s Coffee Region with SKAR El Edén Airport — handcrafted for Microsoft Flight Simulator 2024 with detailed modeling, realistic lighting, and optimized performance. Free upgrade for MSFS 2020 owners."
 og_image: /assets/images/2024/SKAR/01.jpg
 og_type: website
 
 # Twitter Card Metadata
 twitter_card: summary_large_image
 twitter_title: "SKAR El Edén International Airport for MSFS 2024"
-twitter_description: "Experience the charm of Armenia, Colombia — SKAR El Edén Airport for MSFS 2024 delivers handcrafted detail and next-gen realism."
+twitter_description: "Experience the charm of Armenia, Colombia — SKAR El Edén Airport for MSFS 2024 delivers handcrafted detail and next-gen realism. Free upgrade for MSFS 2020 owners."
 twitter_image: /assets/images/2024/SKAR/01.jpg
 
 gallery1:
@@ -82,6 +82,8 @@ This all-new version of SKAR El Edén has been carefully handcrafted for Microso
 ✅ Detailed surroundings including access roads, vegetation, and local objects
 ✅ Optimized performance and full MSFS 2024 compatibility
 
+💡 **Note:** This version of SKAR is available as a **FREE upgrade for owners of the MSFS 2020 version**.
+
 From general aviation to regional flights across Colombia’s Andes, SKAR delivers an authentic and highly detailed environment designed to showcase the beauty of the Coffee Triangle.
 
 📍 ICAO: SKAR
@@ -89,3 +91,7 @@ From general aviation to regional flights across Colombia’s Andes, SKAR delive
 🛒 Available soon on the MSFS 2024 Marketplace
 
 {% include gallery id="gallery1" caption="SKAR El Edén International Airport - Armenia, Colombia for MSFS 2024" %}
+
+✅ How to use:
+Place this file as `/pages/SKAR2024.md` or in your `_pages` directory (depending on your structure).  
+The OG and Twitter metadata will automatically populate `<meta>` tags if your Jekyll theme supports `page.image` and `page.description`.
