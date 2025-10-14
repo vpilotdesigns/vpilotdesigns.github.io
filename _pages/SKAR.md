@@ -1,52 +1,91 @@
 ---
 permalink: /SKAR/
-title: "SKAR - El Eden Intl Airport"
+title: "SKAR El Edén International Airport for MSFS 2024" 
 layout: single
 classes: wide
-gallery1:  
-  - url: /assets/images/SKAR/Block_04.jpg
-    image_path: /assets/images/SKAR/Block_04.jpg
-    alt: "placeholder image 2"
-    title: "El Eden Intl Airport, Armenia, Colombia"
-  - url: /assets/images/SKAR/Block_03.jpg
-    image_path: /assets/images/SKAR/Block_03.jpg
-    alt: "placeholder image 5"
-    title: "El Eden Intl Airport, Armenia, Colombia"
-  - url: /assets/images/SKAR/Block_05.jpg
-    image_path: /assets/images/SKAR/Block_05.jpg
-    alt: "placeholder image 5"
-    title: "El Eden Intl Airport, Armenia, Colombia"
-  - url: /assets/images/SKAR/Block_02.jpg
-    image_path: /assets/images/SKAR/Block_02.jpg
-    alt: "placeholder image 5"
-    title: "El Eden Intl Airport, Armenia, Colombia"
-  - url: /assets/images/SKAR/Block_06.jpg
-    image_path: /assets/images/SKAR/Block_06.jpg
-    alt: "placeholder image 6"
-    title: "El Eden Intl Airport, Armenia, Colombia"
-    
-    
+description: "Discover SKAR El Edén International Airport for Microsoft Flight Simulator 2024 — a handcrafted recreation of Armenia, Colombia’s gateway to the Coffee Region, featuring detailed modeling, realistic textures, and optimized performance."
+image: /assets/images/2024/SKAR/01.jpg
+
+# Open Graph / Social Media Metadata
+og_title: "SKAR El Edén International Airport for MSFS 2024"
+og_description: "Fly into the heart of Colombia’s Coffee Region with SKAR El Edén Airport — handcrafted for Microsoft Flight Simulator 2024 with detailed modeling, realistic lighting, and optimized performance."
+og_image: /assets/images/2024/SKAR/01.jpg
+og_type: website
+
+# Twitter Card Metadata
+twitter_card: summary_large_image
+twitter_title: "SKAR El Edén International Airport for MSFS 2024"
+twitter_description: "Experience the charm of Armenia, Colombia — SKAR El Edén Airport for MSFS 2024 delivers handcrafted detail and next-gen realism."
+twitter_image: /assets/images/2024/SKAR/01.jpg
+
+gallery1:
+  - url: /assets/images/2024/SKAR/01.jpg
+    image_path: /assets/images/2024/SKAR/01.jpg
+    alt: "SKAR Screenshot 01"
+    title: "SKAR El Edén Airport for MSFS 2024"
+  - url: /assets/images/2024/SKAR/02.jpg
+    image_path: /assets/images/2024/SKAR/02.jpg
+    alt: "SKAR Screenshot 02"
+    title: "SKAR El Edén Airport for MSFS 2024"
+  - url: /assets/images/2024/SKAR/03.jpg
+    image_path: /assets/images/2024/SKAR/03.jpg
+    alt: "SKAR Screenshot 03"
+    title: "SKAR El Edén Airport for MSFS 2024"
+  - url: /assets/images/2024/SKAR/04.jpg
+    image_path: /assets/images/2024/SKAR/04.jpg
+    alt: "SKAR Screenshot 04"
+    title: "SKAR El Edén Airport for MSFS 2024"
+  - url: /assets/images/2024/SKAR/05.jpg
+    image_path: /assets/images/2024/SKAR/05.jpg
+    alt: "SKAR Screenshot 05"
+    title: "SKAR El Edén Airport for MSFS 2024"
+  - url: /assets/images/2024/SKAR/06.jpg
+    image_path: /assets/images/2024/SKAR/06.jpg
+    alt: "SKAR Screenshot 06"
+    title: "SKAR El Edén Airport for MSFS 2024"
+  - url: /assets/images/2024/SKAR/07.jpg
+    image_path: /assets/images/2024/SKAR/07.jpg
+    alt: "SKAR Screenshot 07"
+    title: "SKAR El Edén Airport for MSFS 2024"
+  - url: /assets/images/2024/SKAR/08.jpg
+    image_path: /assets/images/2024/SKAR/08.jpg
+    alt: "SKAR Screenshot 08"
+    title: "SKAR El Edén Airport for MSFS 2024"
+  - url: /assets/images/2024/SKAR/09.jpg
+    image_path: /assets/images/2024/SKAR/09.jpg
+    alt: "SKAR Screenshot 09"
+    title: "SKAR El Edén Airport for MSFS 2024"
+  - url: /assets/images/2024/SKAR/10.jpg
+    image_path: /assets/images/2024/SKAR/10.jpg
+    alt: "SKAR Screenshot 10"
+    title: "SKAR El Edén Airport for MSFS 2024"
+  - url: /assets/images/2024/SKAR/11.jpg
+    image_path: /assets/images/2024/SKAR/11.jpg
+    alt: "SKAR Screenshot 11"
+    title: "SKAR El Edén Airport for MSFS 2024"
+  - url: /assets/images/2024/SKAR/12.jpg
+    image_path: /assets/images/2024/SKAR/12.jpg
+    alt: "SKAR Screenshot 12"
+    title: "SKAR El Edén Airport for MSFS 2024"
 ---
-### **Armenia, Colombia**
-#### **for Microsoft Flight Simulator**  
+🛫 SKAR El Edén International Airport for MSFS 2024! 🇨🇴
 
-Available in the MSFS Marketplace  
+Welcome to El Edén International Airport (SKAR) — the gateway to Armenia, Quindío, in the heart of Colombia’s Coffee Region. Surrounded by lush green mountains and the world-famous coffee farms of the Andes, SKAR offers one of the most scenic approaches in South America.
 
-Disponible en el Marketplace de MSFS
+This all-new version of SKAR El Edén has been carefully handcrafted for Microsoft Flight Simulator 2024, making full use of the platform’s next-generation features while maintaining smooth, optimized performance on both PC and Xbox.
 
-{% include figure image_path="/assets/images/SKAR/Block_04.jpg" alt="SKAR" caption="El Eden Intl Airport, Armenia, Colombia" %}
-El Eden Intl Airport
+✨ Key Features:
+✅ Accurate 2024 airport layout with updated taxiways and markings
+✅ Handcrafted 3D terminal and control tower with realistic PBR materials
+✅ Custom ground textures for aprons, taxiways, and runway surfaces
+✅ Realistic night environment with dynamic lighting and emissive details
+✅ Detailed surroundings including access roads, vegetation, and local objects
+✅ Optimized performance and full MSFS 2024 compatibility
 
-Created by V Pilot Designs and Hermano3D
+From general aviation to regional flights across Colombia’s Andes, SKAR delivers an authentic and highly detailed environment designed to showcase the beauty of the Coffee Triangle.
 
-Features 
--Realistic 3D Models  
--Old and New Terminals  
--Parkings  
--Fire Station  
--Lighting  
--Frame Rate Friendly
+📍 ICAO: SKAR
+📍 Location: Armenia, Colombia
+🛒 Available soon on the MSFS 2024 Marketplace
 
-{% include gallery id="gallery1" caption="El Eden Intl Airport, Armenia, Colombia" %}
-
-<script data-name="BMC-Widget" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="vpilot" data-description="Apoyame comprandome un Café!" data-message="Gracias por descargar. Ahora puedes invitarme a un Café!" data-color="#79D6B5" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+{% include gallery id="gallery1" caption="SKAR El Edén International Airport - Armenia, Colombia for MSFS 2024" %}
