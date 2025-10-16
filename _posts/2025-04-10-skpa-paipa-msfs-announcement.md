@@ -5,6 +5,7 @@ categories: [flight-simulator, scenery]
 tags: [MSFS, SKPA, Paipa, Colombia, vpilotdesigns]
 author: V Pilot
 layout: single
+classes: wide
 excerpt: "Announcing the upcoming release of SKPA Paipa Airport for Microsoft Flight Simulator."
 teaser: /assets/images/2024/SKPA/4K_32.jpg
 ---

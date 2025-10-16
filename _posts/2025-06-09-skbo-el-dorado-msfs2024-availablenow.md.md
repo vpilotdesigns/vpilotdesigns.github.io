@@ -5,6 +5,7 @@ categories: [flight-simulator, scenery]
 tags: [MSFS, SKBO, El Dorado, Bogotá, Colombia, vpilotdesigns]
 author: V Pilot Designs
 layout: single
+classes: wide
 excerpt: "SKBO El Dorado Intl Airport for Microsoft Flight Simulator 2024 releases June 9."
 teaser: /assets/images/2024/SKBO/01.jpg
 gallery2:

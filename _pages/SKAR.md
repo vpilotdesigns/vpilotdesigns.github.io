@@ -67,6 +67,22 @@ gallery1:
     image_path: /assets/images/2024/SKAR/12.jpg
     alt: "SKAR Screenshot 12"
     title: "SKAR El Edén Airport for MSFS 2024"
+  - url: /assets/images/2024/SKAR/13.jpg
+    image_path: /assets/images/2024/SKAR/13.jpg
+    alt: "SKAR Screenshot 13"
+    title: "SKAR El Edén Airport for MSFS 2024"
+  - url: /assets/images/2024/SKAR/14.jpg
+    image_path: /assets/images/2024/SKAR/14.jpg
+    alt: "SKAR Screenshot 14"
+    title: "SKAR El Edén Airport for MSFS 2024"
+  - url: /assets/images/2024/SKAR/15.jpg
+    image_path: /assets/images/2024/SKAR/15.jpg
+    alt: "SKAR Screenshot 15"
+    title: "SKAR El Edén Airport for MSFS 2024"
+  - url: /assets/images/2024/SKAR/16.jpg
+    image_path: /assets/images/2024/SKAR/16.jpg
+    alt: "SKAR Screenshot 16"
+    title: "SKAR El Edén Airport for MSFS 2024"
 ---
 🛫 SKAR El Edén International Airport for MSFS 2024! 🇨🇴
 
@@ -75,12 +91,12 @@ Welcome to El Edén International Airport (SKAR) — the gateway to Armenia, Qui
 This all-new version of SKAR El Edén has been carefully handcrafted for Microsoft Flight Simulator 2024, making full use of the platform’s next-generation features while maintaining smooth, optimized performance on both PC and Xbox.
 
 ✨ Key Features:
-✅ Accurate 2024 airport layout with updated taxiways and markings
+✅ Accurate 2025 airport layout with updated taxiways and markings
 ✅ Handcrafted 3D terminal and control tower with realistic PBR materials
 ✅ Custom ground textures for aprons, taxiways, and runway surfaces
 ✅ Realistic night environment with dynamic lighting and emissive details
 ✅ Detailed surroundings including access roads, vegetation, and local objects
-✅ Optimized performance and full MSFS 2024 compatibility
+✅ Optimized performance and fully MSFS 2024 native
 
 💡 **Note:** This version of SKAR is available as a **FREE upgrade for owners of the MSFS 2020 version**.
 
@@ -91,7 +107,3 @@ From general aviation to regional flights across Colombia’s Andes, SKAR delive
 🛒 Available soon on the MSFS 2024 Marketplace
 
 {% include gallery id="gallery1" caption="SKAR El Edén International Airport - Armenia, Colombia for MSFS 2024" %}
-
-✅ How to use:
-Place this file as `/pages/SKAR2024.md` or in your `_pages` directory (depending on your structure).  
-The OG and Twitter metadata will automatically populate `<meta>` tags if your Jekyll theme supports `page.image` and `page.description`.
