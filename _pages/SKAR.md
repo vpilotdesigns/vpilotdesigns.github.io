@@ -91,12 +91,12 @@ Welcome to El Edén International Airport (SKAR) — the gateway to Armenia, Qui
 This all-new version of SKAR El Edén has been carefully handcrafted for Microsoft Flight Simulator 2024, making full use of the platform’s next-generation features while maintaining smooth, optimized performance on both PC and Xbox.
 
 ✨ Key Features:
-✅ Accurate 2025 airport layout with updated taxiways and markings
-✅ Handcrafted 3D terminal and control tower with realistic PBR materials
-✅ Custom ground textures for aprons, taxiways, and runway surfaces
-✅ Realistic night environment with dynamic lighting and emissive details
-✅ Detailed surroundings including access roads, vegetation, and local objects
-✅ Optimized performance and fully MSFS 2024 native
+- Accurate 2025 airport layout with updated taxiways and markings
+- Handcrafted 3D terminal and control tower with realistic PBR materials
+- Custom ground textures for aprons, taxiways, and runway surfaces
+- Realistic night environment with dynamic lighting and emissive details
+- Detailed surroundings including access roads, vegetation, and local objects
+- Optimized performance and fully MSFS 2024 native
 
 💡 **Note:** This version of SKAR is available as a **FREE upgrade for owners of the MSFS 2020 version**.
 

@@ -17,6 +17,11 @@ toc: true
   <br>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/ijI_XZ0eyjo" title="SKBO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen><br></iframe>
   <br></p>
+  
+### [SKAR - El Eden Airport - Armenia, Colombia](https://vpilotdesigns.github.io/SKAR/)
+<p><a href="https://vpilotdesigns.github.io/SKAR/"><strong>Galeria/Gallery</strong></a><br>
+  <br></p>
+{% include figure image_path="/assets/images/2024/SKAR/06.jpg" alt="mpto" caption="El Eden Intl Airport - Armenia, Colombia for MSFS 2024" %}
 
 # Microsoft Flight Simulator (2020)
 
@@ -40,11 +45,6 @@ toc: true
   <br>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/BKzeJDd8p9I" title="SKCG" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen><br></iframe><br>
   <br></p>
-  
-### [SKAR - El Eden Airport - Armenia, Colombia](https://vpilotdesigns.github.io/SKAR/)
-<p><a href="https://vpilotdesigns.github.io/SKAR/"><strong>Galeria/Gallery</strong></a><br>
-  <br></p>
-{% include figure image_path="/assets/images/SKAR/Block_06.jpg" alt="mpto" caption="El Eden Intl Airport - Armenia, Colombia for MSFS" %}
   
 ### [SKPA - Juan Jose Rondon Airport - Paipa, Colombia](https://vpilotdesigns.github.io/SKPA/)
 <p><a href="https://vpilotdesigns.github.io/SKPA/"><strong>Galeria/Gallery</strong></a><br>
