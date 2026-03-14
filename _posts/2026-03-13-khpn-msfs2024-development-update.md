@@ -12,7 +12,7 @@ tags:
   - Westchester County Airport
   - Scenery Development
 header:
-  overlay_image: /assets/images/khpn/khpn-dev-01.png
+  overlay_image: /assets/images/KHPN/khpn-dev-01.png
   overlay_filter: 0.45
   caption: "KHPN – Westchester County Airport | Development Preview"
 ---
@@ -37,9 +37,9 @@ Below are a couple images from the current development build.
 
 > **Note:** These previews are still **work-in-progress (WIP)** and do not represent the final product.
 
-![KHPN Development Preview 1](/assets/images/khpn/khpn-dev-01.png)
+![KHPN Development Preview 1](/assets/images/KHPN/khpn-dev-01.png)
 
-![KHPN Development Preview 2](/assets/images/khpn/khpn-dev-02.png)
+![KHPN Development Preview 2](/assets/images/KHPN/khpn-dev-02.png)
 
 ---
 
