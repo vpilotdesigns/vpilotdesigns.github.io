@@ -4,6 +4,7 @@ date: 2026-03-14
 layout: single
 author: V Pilot
 classes: wide
+teaser: /assets/images/KHPN/khpn-dev-01.png
 categories:
   - Development
 tags:
@@ -37,9 +38,13 @@ Below are a couple images from the current development build.
 
 > **Note:** These previews are still **work-in-progress (WIP)** and do not represent the final product.
 
-![KHPN Development Preview 1](/assets/images/KHPN/khpn-dev-01.png)
+<a href="/assets/images/KHPN/khpn-dev-01.png" target="_blank" class="lightbox">
+  <img src="/assets/images/KHPN/khpn-dev-01.png" alt="KHPN Development Preview 1" />
+</a>
 
-![KHPN Development Preview 2](/assets/images/KHPN/khpn-dev-02.png)
+<a href="/assets/images/KHPN/khpn-dev-02.png" target="_blank" class="lightbox">
+  <img src="/assets/images/KHPN/khpn-dev-02.png" alt="KHPN Development Preview 2" />
+</a>
 
 ---
 
