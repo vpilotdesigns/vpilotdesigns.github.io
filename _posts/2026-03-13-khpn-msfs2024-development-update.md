@@ -2,7 +2,7 @@
 title: "KHPN Development Update for MSFS 2024"
 date: 2026-03-14
 layout: single
-author: Preston Root
+author: V Pilot
 classes: wide
 categories:
   - Development
