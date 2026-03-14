@@ -38,13 +38,9 @@ Below are a couple images from the current development build.
 
 > **Note:** These previews are still **work-in-progress (WIP)** and do not represent the final product.
 
-<a href="/assets/images/KHPN/khpn-dev-01.png" target="_blank" class="lightbox">
-  <img src="/assets/images/KHPN/khpn-dev-01.png" alt="KHPN Development Preview 1" />
-</a>
+[![KHPN Development Preview 1](/assets/images/KHPN/khpn-dev-01.png)](/assets/images/KHPN/khpn-dev-01.png){: data-lightbox="khpn" data-title="KHPN Development Preview 1" }
 
-<a href="/assets/images/KHPN/khpn-dev-02.png" target="_blank" class="lightbox">
-  <img src="/assets/images/KHPN/khpn-dev-02.png" alt="KHPN Development Preview 2" />
-</a>
+[![KHPN Development Preview 2](/assets/images/KHPN/khpn-dev-02.png)](/assets/images/KHPN/khpn-dev-02.png){: data-lightbox="khpn" data-title="KHPN Development Preview 2" }
 
 ---
 
