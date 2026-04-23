@@ -4,7 +4,7 @@ date: 2026-04-23
 layout: single
 author: V Pilot
 classes: wide
-teaser: /assets/images/logos/FSExpo_OnBlack.png
+teaser: /assets/images/logos/FSExpo_OnBlack2.png
 categories:
   - Events
   - Community
