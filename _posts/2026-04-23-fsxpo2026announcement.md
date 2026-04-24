@@ -50,8 +50,7 @@ Here’s a quick look at what’s coming:
 
 We invite you to attend and be part of the experience.
 
-👉 Register here:  
-https://www.flightsimexpo.com/register?utm_source=v-pilot
+👉 Click Here to [Register](https://www.flightsimexpo.com/register?utm_source=v-pilot)
 
 ---
 
