@@ -56,11 +56,11 @@ We invite you to attend and be part of the experience.
 
 ## Follow the Coverage
 
-- YouTube: https://www.youtube.com/@v-pilot  
-- Instagram: https://www.instagram.com/vpilotfs/  
-- Facebook: https://www.facebook.com/vpilotfs/  
-- TikTok: https://www.tiktok.com/@vpilotfs  
-- X (Twitter): https://x.com/VPilotDesigns  
-- Threads: https://www.threads.com/@vpilotfs  
+- [YouTube](https://www.youtube.com/@v-pilot)
+- [Instagram](https://www.instagram.com/vpilotfs/)
+- [Facebook](https://www.facebook.com/vpilotfs/)
+- [TikTok](https://www.tiktok.com/@vpilotfs) 
+- [X (Twitter)](https://x.com/VPilotDesigns)
+- [Threads](https://www.threads.com/@vpilotfs)
 
 ---
