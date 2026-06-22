@@ -6,7 +6,7 @@ layout: single
 
 # GSX Profiles Collection
 
-Here you can find a collection of GSX Profiles for most of our airports available at [flightsim.to](https://flightsim.to/user/collection/2547/gsx-v-pilot).
+Here you can find a collection of GSX Profiles for most of our airports available at [flightsim.to](https://flightsim.to/collection/gsx-v-pilot).
 
 - SKBO by @JDoor (official)
 - SKRG by @JDoor (official)
