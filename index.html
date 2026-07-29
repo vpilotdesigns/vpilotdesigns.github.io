@@ -55,7 +55,7 @@ feature_row:
   - image_path: /assets/images/KHDN/Block_02.jpg
     alt: "KHDN Yampa Valley"
     title: "KHDN Yampa Valley Airport"
-    excerpt: "Yampa Valley Airport (KHDN), Hayden, Colorado, USA"
+    excerpt: "Yampa Valley Airport (KHDN), Hayden, Colorado"
     url: "https://vpilotdesigns.github.io/KHDN/"
     btn_label: "Read More"
     btn_class: "btn--success"
@@ -63,7 +63,7 @@ feature_row:
   - image_path: /assets/images/MROC/Block_01.jpg
     alt: "MROC Juan Santamaria"
     title: "MROC Juan Santamaria Intl"
-    excerpt: "Juan Santamaria International Airport (MROC), San José, Costa Rica"
+    excerpt: "Juan Santamaria International Airport (MROC), Costa Rica"
     url: "https://vpilotdesigns.github.io/MROC/"
     btn_label: "Read More"
     btn_class: "btn--success"
@@ -79,7 +79,7 @@ feature_row:
   - image_path: /assets/images/KMAF/Block_14.jpg
     alt: "KMAF Midland Intl"
     title: "KMAF Midland International Air and Space Port"
-    excerpt: "Midland International Air and Space Port (KMAF), Texas, USA"
+    excerpt: "Midland International Air and Space Port (KMAF), Texas"
     url: "https://vpilotdesigns.github.io/KMAF/"
     btn_label: "Read More"
     btn_class: "btn--success"
@@ -111,15 +111,15 @@ feature_row:
   - image_path: /assets/images/KHPN/Block_20.jpg
     alt: "KHPN Westchester County"
     title: "KHPN Westchester County"
-    excerpt: "Westchester County Airport (KHPN), White Plains, New York"
+    excerpt: "Westchester County Airport (KHPN), New York"
     url: "https://vpilotdesigns.github.io/KHPN/"
     btn_label: "Read More"
     btn_class: "btn--success"
 
   - image_path: /assets/images/KSUU/Block_02.jpg
-    alt: "KSUU Travis AFB"
+    alt: "KSUU Travis Air Force Base"
     title: "KSUU Travis Air Force Base"
-    excerpt: "Travis Air Force Base (KSUU), California, USA"
+    excerpt: "Travis Air Force Base (KSUU), California"
     url: "https://vpilotdesigns.github.io/KSUU/"
     btn_label: "Read More"
     btn_class: "btn--success"
@@ -127,7 +127,7 @@ feature_row:
   - image_path: /assets/images/SKRG/Block_101.jpg
     alt: "SKRG Jose Maria Cordova"
     title: "SKRG Jose Maria Cordova Intl"
-    excerpt: "Jose Maria Cordova International Airport (SKRG), Rionegro, Colombia"
+    excerpt: "Jose Maria Cordova International Airport (SKRG), Colombia"
     url: "https://vpilotdesigns.github.io/SKRG/"
     btn_label: "Read More"
     btn_class: "btn--success"
@@ -135,30 +135,76 @@ feature_row:
   - image_path: /assets/images/SKAR/Block_02.jpg
     alt: "SKAR El Eden"
     title: "SKAR El Eden Intl"
-    excerpt: "El Eden International Airport (SKAR), Armenia, Colombia"
+    excerpt: "El Eden International Airport (SKAR), Colombia"
     url: "https://vpilotdesigns.github.io/SKAR/"
     btn_label: "Read More"
     btn_class: "btn--success"
 ---
 
-<p><strong>Bienvenidos / Welcome</strong></p>
+## Bienvenidos / Welcome
 
-<h2>Latest News</h2>
+Welcome to **V Pilot Designs**, creators of highly detailed airports for Microsoft Flight Simulator.
 
-{% assign recent_posts = site.posts | limit: 5 %}
+---
 
-<div class="entries-list">
-  {% for post in recent_posts %}
-    {% include archive-single.html type="list" %}
-  {% endfor %}
+## Latest News
+
+<div class="grid__wrapper">
+
+{% assign recent_posts = site.posts | limit: 6 %}
+
+{% for post in recent_posts %}
+
+<div class="grid__item">
+
+<article class="archive__item">
+
+{% if post.teaser %}
+<div class="archive__item-teaser">
+<a href="{{ post.url | relative_url }}">
+<img src="{{ post.teaser | relative_url }}"
+     alt="{{ post.title }}"
+     loading="lazy">
+</a>
+</div>
+{% endif %}
+
+<h2 class="archive__item-title">
+<a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+</h2>
+
+<p class="page__meta">
+{{ post.date | date: "%B %-d, %Y" }}
+</p>
+
+<p>
+{{ post.excerpt | strip_html | truncate: 140 }}
+</p>
+
+<p>
+<a class="btn btn--success" href="{{ post.url | relative_url }}">
+Read More
+</a>
+</p>
+
+</article>
+
 </div>
 
-<h2>Featured Addons</h2>
+{% endfor %}
 
-<p>Find us in the Marketplace for Microsoft Flight Simulator 2020 and Microsoft Flight Simulator 2024.</p>
+</div>
+
+---
+
+## Featured Addons
+
+Find us in the Marketplace for **Microsoft Flight Simulator 2020** and **Microsoft Flight Simulator 2024**.
 
 {% include feature_row %}
 
-<p>
-  <img src="/assets/images/marketplace2.png" alt="Marketplace" width="100%">
+<p align="center">
+  <img src="/assets/images/marketplace2.png"
+       alt="Marketplace"
+       style="max-width:100%;">
 </p>
