@@ -4,7 +4,7 @@ date: 2026-09-24
 layout: single
 author: V Pilot
 classes: wide
-teaser: /assets/images/vpilot-stores.jpg
+teaser: /assets/images/vpilot-stores.png
 categories:
   - News
   - Community
