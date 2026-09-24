@@ -1,9 +1,10 @@
+---
 title: "V Pilot Designs Now Available on Contrail and Inibuilds"
 date: 2026-09-24
 layout: single
 author: V Pilot
 classes: wide
-teaser: /assets/images/posts/vpilot-stores.jpg
+teaser: /assets/images/vpilot-stores.jpg
 categories:
   - News
   - Community
