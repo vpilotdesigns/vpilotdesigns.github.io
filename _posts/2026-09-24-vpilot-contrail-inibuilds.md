@@ -16,6 +16,8 @@ tags:
   - vpilotdesigns
 ---
 
+![V Pilot Designs - Now Available on Contrail and iniBuilds](/assets/images/vpilot-stores.png)
+
 ## 🛒 More Ways to Get V Pilot Designs Scenery
 
 V Pilot Designs is now available through **Contrail** and **iniBuilds**, giving the community more options to purchase and manage our scenery.
@@ -55,3 +57,5 @@ V Pilot Designs is now available through the **iniBuilds Store**, with more prod
 We're continuing to add more V Pilot Designs airports to these stores, while also working on new airports and updates for MSFS and MSFS 2024.
 
 Thank you to everyone who has supported V Pilot Designs and requested additional ways to purchase our scenery!
+
+**See you in the skies!** 🛫
